@@ -1,5 +1,5 @@
-#   Deneme
-##  Alt Bilgi
-deneme test deneme test
+#   FirstWebPage
 
-[link](https://www.google.com)
+İlk Web Sayfası
+
+[link](https://patika.dev)
